@@ -1,2 +1,2 @@
-# prueba vamos a practicar git pull
+# prueba vamos a practicar git fetch
 hola bueno estamos cambiando
